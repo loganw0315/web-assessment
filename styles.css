@@ -1,0 +1,66 @@
+body {
+  background: #ddd;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+}
+
+nav {
+	border-bottom: 2px solid orange;
+	text-align: center;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: orange;
+}
+
+a:visited {
+	color: crimson;
+}
+
+
+input {
+	display: block;
+	margin: 0 auto;
+}
+
+img {
+	max-width: 300px;
+}
+
+.favorite{
+	font-size: large;
+	background-color: yellow;
+	border-radius: 10px;
+}
+
+[type="checkbox"]{
+	display: inline-block;
+	margin: 0 auto;
+}
+
+.streetPic{
+	scale: 140%;
+}
+
+h1{
+	text-align: center;
+}
+
+ul{
+	display: inline-block;
+	text-align: left;
+}
+

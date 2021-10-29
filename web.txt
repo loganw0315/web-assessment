@@ -1,0 +1,3 @@
+    The internet is a network of computers that send and recieve data. A user accesses the internet through websites which are a way to interface with a server of data. These servers can be stored on purpose built computers or even user computers. 
+
+    When you click on a link your browser interprets the url using the Domain Name System and translates it to an IP adress that the website is located at. It then makes a request over HTTP/HTTPS to the site and recieves back website files in packets. Your browser then takes those packets and reassembles them into a working website.
